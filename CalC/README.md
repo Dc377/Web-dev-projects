@@ -1,24 +1,31 @@
-# JavaScript Calculator
+Calculator Web App
+Welcome to the Calculator Web App! This simple web application allows users to perform basic arithmetic operations conveniently through their web browser.
 
-This is the 7th project for freeCodeCamp's Front-End Development certificate.
+Features
+Simple Interface: The calculator has a user-friendly interface that makes it easy for users to input their calculations.
 
-Completed On: 28 January 2016  
-Last Updated: 30 March 2017
+Basic Arithmetic Operations: Users can perform addition, subtraction, multiplication, and division operations with ease.
 
-## Objectives
+Responsive Design: The application is designed to be responsive and works well on various screen sizes, including desktops, tablets, and mobile devices.
 
-Build an app that is functionally similar to this: https://codepen.io/FreeCodeCamp/full/rLJZrA/.
+How to Use
+Input: Use your mouse or keyboard to input numbers and operators into the calculator.
 
-**Rule #1**: Don't look at the example project's code. Figure it out for yourself.
+Operations: Click on the appropriate buttons for addition (+), subtraction (-), multiplication (*), and division (/).
 
-**Rule #2**: Fulfill the below user stories. Use whichever libraries or APIs you need. Give it your own personal style.
+Calculate: Press the equals (=) button to see the result of your calculation.
 
-## User Stories
+Clear: Use the clear (C) button to reset the calculator for a new calculation.
 
-- I can add, subtract, multiply and divide two numbers.
-- I can clear the input field with a clear button.
-- I can keep chaining mathematical operations together until I hit the equal button, and the calculator will tell me the correct output.
+Technologies Used
+HTML5: The structure of the web pages is built using HTML5.
 
-## My Work
+CSS3: Styling and layout are implemented using CSS3 for a visually appealing interface.
 
-![JavaScript calculator](https://cdn.rawgit.com/ayoisaiah/javascript-calculator/012d4c5f/screenshot.png)
+JavaScript: The calculator functionality is powered by JavaScript, allowing for dynamic calculations without page reloads.
+
+Installation
+You don't need to install anything to use this web app. Simply open the provided URL in your web browser, and you're good to go!
+
+Demo
+You can access the live demo of the Calculator Web App here.
